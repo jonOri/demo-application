@@ -1,2 +1,3 @@
+[*.{js,pl}]
 indent_size = 4
 indent_style = tab
